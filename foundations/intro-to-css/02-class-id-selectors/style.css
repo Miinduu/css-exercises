@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+#secondElement {
+    color: rgb(0 0 255);
+    font-size: 24px;
+}
+
+.oddNumbered {
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 0, 0));
+    font-family: Verdnaa, DejaVu Sans, sans-serif;
+}
+
+.biggerText {
+    font-size: 24px;
+}
+
+#greenAndBold {
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(0, 255, 0));
+    font-weight: bold;
+    font-size: 24px;
+}
