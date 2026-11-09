@@ -1,12 +1,12 @@
-/* Add CSS Styling */
+/* apparantly the solution didn't need gradients, my monitor made it look like one that's why I added it */
 #secondElement {
     color: rgb(0 0 255);
-    font-size: 24px;
+    font-size: 36px;
 }
 
 .oddNumbered {
     background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 0, 0));
-    font-family: Verdnaa, DejaVu Sans, sans-serif;
+    font-family: Verdnaa, "DejaVu Sans", sans-serif;
 }
 
 .biggerText {
@@ -16,5 +16,4 @@
 #greenAndBold {
     background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(0, 255, 0));
     font-weight: bold;
-    font-size: 24px;
 }
